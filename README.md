@@ -17,11 +17,11 @@ npm install
 ```js
 const urlList = [
   "https://api.restful-api.dev/objects/1",
-  "https://api.restful-api.dev/objects//2",
-  "https://api.restful-api.dev/objects//3",
-  "https://api.restful-api.dev/objects//4",
-  "https://api.restful-api.dev/objects//5",
-  "https://api.restful-api.dev/objects//6",
+  "https://api.restful-api.dev/objects/2",
+  "https://api.restful-api.dev/objects/3",
+  "https://api.restful-api.dev/objects/4",
+  "https://api.restful-api.dev/objects/5",
+  "https://api.restful-api.dev/objects/6",
 ];
 
 const maxConcurrency = 3;
